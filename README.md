@@ -29,6 +29,6 @@ We have 4 navigating routes in our main page which are the names of each exercis
 
 <img src="shape_up/Screenshots/click.jpg" width="150">
 
-Except the main page other 4 pages have a 'arrow back' icon and when clicked on it we are taken back to our main page. 
+Except the main page other 4 pages have an 'arrow back' icon and when clicked on it we are taken back to our main page. 
 
 <img src="shape_up/Screenshots/click1.jpg" width="200">
