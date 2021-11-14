@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Jump Rope",
+    "rep": "50 seconds",
+    "img": "assets/a1.jpg"
+  },
+  {
+    "title": "Crunches",
+    "rep": "15 reps",
+    "img": "assets/a2.jpg"
+  },
+  {
+    "title": "Squat",
+    "rep": "15 reps",
+    "img": "assets/a3.jpg"
+  },
+  {
+    "title": "Toe Tap",
+    "rep": "15 reps",
+    "img": "assets/a4.jpg"
+  }
+]

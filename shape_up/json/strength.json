@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Shoulder Press",
+    "rep": "15 reps",
+    "img": "assets/s1.jpg"
+  },
+  {
+    "title": "Single Arm Snatch",
+    "rep": "15 reps",
+    "img": "assets/s2.jpg"
+  },
+  {
+    "title": "Lateral Raise",
+    "rep": "15 reps",
+    "img": "assets/s3.jpg"
+  },
+  {
+    "title": "HandStand",
+    "rep": "30 seconds",
+    "img": "assets/s4.jpg"
+  }
+]

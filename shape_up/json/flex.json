@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Child Pose",
+    "rep": "50 seconds",
+    "img": "assets/f1.jpg"
+  },
+  {
+    "title": "Downward Dog",
+    "rep": "50 seconds",
+    "img": "assets/f2.jpg"
+  },
+  {
+    "title": "Bow",
+    "rep": "50 seconds",
+    "img": "assets/f3.jpg"
+  },
+  {
+    "title": "Lotus",
+    "rep": "50 seconds",
+    "img": "assets/f4.jpg"
+  }
+]
