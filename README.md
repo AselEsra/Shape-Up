@@ -9,8 +9,26 @@
 
 ## Description Of The Project
 
-A mobile app called Shape Up, which is created in Android studio with the help of dart language and flutter sdk, is a gym app which helps its users to get in shape and to maintain healthy lifestyle.
+Shape Up mobile app, created in Android studio with the help of dart language and flutter sdk, is a gym app which helps its users to get in shape and to maintain a healthy lifestyle. It can display 5 different screens which are home_page, aerobic, strength, balance and flexibility classes. From home_page class we can navigate to other 4 classes. For simulation of the project an AVD manager tool(Pixel 3 XL API 30) is used.
 
-<img src="Screenshots/main.jpg" width="550">
+### This is how the main page looks;
 
-### Displayed And Printed Results;
+<img src="shape_up/Screenshots/main.jpg" width="250"><img src="shape_up/Screenshots/main2.jpg" width="250"> 
+
+` These 4 Exercise types are inside an Expanded widget which is scrollable  `
+
+
+### Aerobic, Strength, Balance and  Flexibility classes
+
+<img src="shape_up/Screenshots/aerobic.jpg" width="200"> <img src="shape_up/Screenshots/strength.jpg" width="200"><img src="shape_up/Screenshots/balance.jpg" width="200"><img src="shape_up/Screenshots/flex.jpg" width="200">
+
+
+### Navigation
+
+We have 4 navigating routes in our main page which are the names of each exercise type, when clicked on them we are navigated to the desired page. 
+
+<img src="shape_up/Screenshots/click.jpg" width="150">
+
+Except the main page other 4 pages have a 'arrow back' icon and when clicked on it we are taken back to our main page. 
+
+<img src="shape_up/Screenshots/click1.jpg" width="200">
